@@ -11,4 +11,5 @@
 
 ## Run
 *Mac/Linux* `sh scripts/run_smoke.sh`
+
 *Windows* `.\scripts\run_smoke.bat`
